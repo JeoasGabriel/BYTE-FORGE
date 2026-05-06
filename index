@@ -1,0 +1,63 @@
+  <div class="vines-left"></div>
+  <div class="vines-right"></div>
+
+  <div class="login-card" role="dialog" aria-labelledby="brandTitle">
+    <div class="logo-area">
+      <div class="snake-icon">🐍</div>
+      <h1 id="brandTitle" class="brand-title">Snake Arena</h1>
+      <div class="brand-sub">PLAY</div>
+    </div>
+
+    <div class="divider">
+      <div class="divider-line"></div>
+      <div class="divider-diamond"></div>
+      <div class="divider-line"></div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Email</label>
+      <div class="field-wrapper">
+        <span class="field-icon">@</span>
+        <input id="email" class="field-input" type="email" placeholder="seu@exemplo.com">
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Senha</label>
+      <div class="field-wrapper">
+        <span class="field-icon">🔒</span>
+        <input id="password" class="field-input" type="password" placeholder="••••••••">
+        <button id="eyeToggle" class="eye-toggle" aria-label="Mostrar senha">👁️</button>
+      </div>
+    </div>
+
+    <div class="remember-row">
+      <label class="remember-label">
+        <div id="customCheck" class="custom-check" role="button" tabindex="0" aria-pressed="false">
+          <span class="check-mark">✔</span>
+        </div>
+        Lembrar-me
+      </label>
+      <button class="forgot-link" type="button">Esqueci</button>
+    </div>
+
+    <button id="btnLogin" class="btn-login" type="button">
+      JOGAR
+      <span class="btn-shimmer"></span>
+    </button>
+
+    <div class="separator">
+      <div class="sep-line"></div>
+      <div class="sep-text">ou</div>
+      <div class="sep-line"></div>
+    </div>
+
+    <div class="register-row">
+      Novo por aqui?
+      <button class="register-link" type="button">Criar conta</button>
+    </div>
+
+    <div class="toast" id="toast">Mensagem</div>
+    <div class="particles" id="particles"></div>
+  </div>
+</div>
