@@ -1,45 +1,50 @@
-# BYTERFORGE
-README.md
+#🐍 Jogo da Cobrinha - Byte Forge
 
-# Snake Arena — Login & Game
+##◼️ Sobre o jogo
 
-Pequeno projeto de interface com tela de login e área de jogo (canvas). Inclui estilos para a tela de login e estilos originais do jogo, HTML de exemplo e scripts básicos para alternar telas, toggle de senha, checkbox customizado, toast e partículas.
+Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pygame. O objetivo é controlar a cobra, coletar alimentos e alcançar a maior pontuação possível sem colidir com as paredes ou com o próprio corpo.
 
-## Como usar (local)
-1. Clone ou baixe o repositório.
-2. Abra `index.html` no navegador (ou use Live Server / http-server para testar).
-3. Na tela de login, clique em "JOGAR" para ver a tela do jogo.
+##🎮 Funcionalidades
+- Movimentação com as setas do teclado
+- Sistema de pontuação
+- Crescimento da cobra ao coletar alimentos
+- Detecção de colisão
+- Tela de Game Over
+  
+##🛠️ Tecnologias Utilizadas
+- Python 3
+- Pygame
 
-## Estrutura do repositório
-- index.html — HTML principal (login + game)
-- css/
-  - login.css — estilos da tela de login
-  - game.css — estilos do jogo
-- js/
-  - app.js — controle de telas e UI (eye toggle, checkbox, toast, partículas)
-  - game.js — placeholder para lógica do jogo / canvas
-- assets/ — imagens, vídeos, ícones (opcional)
-- README.md — este arquivo
-- .gitignore — recomendado (node_modules/, .DS_Store, /dist, etc.)
-- LICENSE — opcional (ex: MIT)
+##📦 Instalação
+1. Clone o repositório:
+   
+2. Instale o Pygame:
+   pip install pygame
+3. Execute o jogo:
+   python main.py
+##🎯 Como Jogar
+-Pode ser jogado com as teclas
+-⬆️ Seta para cima: mover para cima
+-⬇️ Seta para baixo: mover para baixo
+-⬅️ Seta para esquerda: mover para esquerda
+-➡️ Seta para direita: mover para direita
+Colete os alimentos para aumentar sua pontuação e evitar colisões.
 
-## Recursos incluídos
-- Tela de login estilizada (HTML/CSS)
-- Toggle para mostrar/esconder senha
-- Checkbox customizado acessível (aria-pressed)
-- Toasts simples
-- Geração leve de partículas (DOM)
-- Estrutura separada para lógica do jogo (game.js)
+##📁 Estrutura do Projeto
+jogo-cobrinha/
+│
+├── assets/
+│   ├── imagens/
+│   └── sons/
+├── main.py
+├── README.md
+└── requirements.txt
 
-## Boas práticas e próximos passos
-- Separar CSS em variáveis/SCSS para manutenção.
-- Mover partículas para canvas ou otimizar se muitos elementos.
-- Implementar autenticação real antes de alternar para a tela de jogo.
-- Adicionar testes e pipeline de build (npm, parcel, vite) se necessário.
+##📸 Capturas de Tela
 
-## Licença
-Escolha uma licença (ex.: MIT). Exemplo rápido: adicione arquivo `LICENSE` com texto MIT.
 
----
+##📄 Licença
 
-Se quiser, gero um arquivo LICENSE (MIT) e um .gitignore pronto, ou envio os conteúdos completos para copiar/colar.
+
+
+## 🧑‍🎨 Integrantes do Grupo
