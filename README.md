@@ -1,4 +1,4 @@
-# BYTE-FORGE
+# BYTERFORGE
 README.md
 
 # Snake Arena — Login & Game
