@@ -8,7 +8,7 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 
 [GDD - BYTE FORGE](arquivo.pdf)
 
-[SDD - BYTE FORGE](arquivo.pdf)
+[SDD - BYTE FORGE](https://github.com/user-attachments/files/29341411/SDD-BYTEFORGE.pdf)
 
 ## 🎮 Funcionalidades
 - Movimentação com as setas do teclado
