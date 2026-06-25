@@ -26,11 +26,14 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 ## 📦 Instalação
 
 1. Clone o link:
+
+   ![jogo]([Uploading snake_byteforge_v58.py…]()
+)
    
-2. Instale o Pygame:
+3. Instale o Pygame:
    ```
    pip install pygame
-3. Execute o jogo:
+4. Execute o jogo:
    ```
    python main.py
    
@@ -79,7 +82,7 @@ jogo-cobrinha/
 
 ## 🧑‍🎨 Integrantes do Grupo
 
-- Jeoas Gabriel - Gerente de Projeto
+- Jeoas Gabriel - Gestão do Projeto
 
 - Sandra Pires - Game Desing
 
