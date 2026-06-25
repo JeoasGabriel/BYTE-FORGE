@@ -27,8 +27,6 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 
 1. Clone o link:
 
-   ![jogo]([Uploading snake_byteforge_v58.py…]()
-)
    
 3. Instale o Pygame:
    ```
@@ -57,9 +55,18 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 jogo-cobrinha/
 │
 ├── docs/
+|   |── GDD
+|   ├── SDD
 │   ├── imagens/
 |   └── gameplay/
 │   └── tela_menu/
+|── assets/
+| └── aplle_golden/
+| └── aplle_normal/
+| └── boss_cobra_neon/
+| └── cobra_defensiva/
+| └── powerup_x2/
+| └── coin/
 |── audios/
 |   └── botão_menu/
 |   └── gameover/
@@ -67,7 +74,7 @@ jogo-cobrinha/
 |   └── menu_music/
 |   └── modo_classic/
 |   └── subir_nivel/
-├── main.py
+├── snake_byteforge_v58.py
 ├── README.md
 └── requirements.txt
 ```
