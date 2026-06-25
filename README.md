@@ -6,7 +6,7 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 
 ## 📑 Documentação do Projeto
 
-[GDD - BYTE FORGE](arquivo.pdf)
+[GDD - BYTE FORGE](https://github.com/user-attachments/files/29348257/GDD.-.BYTE.FORGE.pdf)
 
 [SDD - BYTE FORGE](https://github.com/user-attachments/files/29341411/SDD-BYTEFORGE.pdf)
 
@@ -39,6 +39,7 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 -⬅️ Seta para esquerda: mover para esquerda
 
 -➡️ Seta para direita: mover para direita
+
 Colete os alimentos para aumentar sua pontuação e evitar colisões.
 
 
