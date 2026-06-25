@@ -1,4 +1,4 @@
-# 🐍 Snake Green - Byte Forge
+# 🐍 Snake - Byte Forge
 
 ## ◼️ Sobre o jogo
 
