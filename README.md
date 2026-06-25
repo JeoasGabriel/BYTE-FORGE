@@ -31,7 +31,9 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
    ´python main.py
    
 ## 🎯 Como Jogar
+
 -Pode ser jogado com as teclas
+
 -⬆️ Seta para cima: mover para cima
 
 -⬇️ Seta para baixo: mover para baixo
@@ -40,14 +42,14 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 
 -➡️ Seta para direita: mover para direita
 
-Colete os alimentos para aumentar sua pontuação e evitar colisões.
+- Colete os alimentos para aumentar sua pontuação e evitar colisões.
 
 
 ```text
 ## 📁 Estrutura do Projeto
 jogo-cobrinha/
 │
-├── assets/
+├── docs/
 │   ├── imagens/
 │   └── sons/
 ├── main.py
@@ -56,7 +58,8 @@ jogo-cobrinha/
 ```
 
 ## 📸 Capturas de Tela
-![GamePlay](Files/images/ico/tela_menu.jpeg)
+
+![GamePlay](docs/images/gameplay.jpg)
 
 ## 📄 Licença
 
@@ -64,4 +67,20 @@ jogo-cobrinha/
 
 ## 🧑‍🎨 Integrantes do Grupo
 
-Jeoas Gabriel, Sandra Pires, Eduardo Abreu, Raynara Gomes, Enzo Gabriel, Paulo Henrique, André Marques, Lucas Gabryell, João Pedro
+- Jeoas Gabriel - Gerente de Projeto
+
+- Sandra Pires - Game Desing
+
+- Eduardo Abreu - Desing
+  
+- Raynara Gomes - QA tester
+
+- Enzo Gabriel - Programador 
+
+- Paulo Henrique - Artista 2D
+
+- André Marques - Sound Desing
+
+- Lucas Gabryell - Roteirista
+
+- João Pedro - Programador
