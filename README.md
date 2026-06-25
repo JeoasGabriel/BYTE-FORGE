@@ -1,5 +1,7 @@
 # 🐍 Snake - Byte Forge
 
+![GamePlay](docs/images/tela_menu.jpeg)
+
 ## ◼️ Sobre o jogo
 
 Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pygame. O objetivo é controlar a cobra, coletar alimentos e alcançar a maior pontuação possível sem colidir com as paredes ou com o próprio corpo.
@@ -8,7 +10,7 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 
 [GDD - BYTE FORGE](https://github.com/user-attachments/files/29348257/GDD.-.BYTE.FORGE.pdf)
 
-[SDD - BYTE FORGE](https://github.com/user-attachments/files/29341411/SDD-BYTEFORGE.pdf)
+[SDD - BYTE FORGE](https://github.com/user-attachments/files/29348973/SDD.-.BYTE.FORGE.pdf)
 
 ## 🎮 Funcionalidades
 - Movimentação com as setas do teclado
@@ -26,21 +28,23 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 1. Clone o repositório:
    
 2. Instale o Pygame:
+   ```
    ´pip install pygame
 3. Execute o jogo:
+   ```
    ´python main.py
    
 ## 🎯 Como Jogar
 
--Pode ser jogado com as teclas
+- Pode ser jogado com as teclas
 
--⬆️ Seta para cima: mover para cima
+- ⬆️ Seta para cima: mover para cima
 
--⬇️ Seta para baixo: mover para baixo
+- ⬇️ Seta para baixo: mover para baixo
 
--⬅️ Seta para esquerda: mover para esquerda
+- ⬅️ Seta para esquerda: mover para esquerda
 
--➡️ Seta para direita: mover para direita
+- ➡️ Seta para direita: mover para direita
 
 - Colete os alimentos para aumentar sua pontuação e evitar colisões.
 
