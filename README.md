@@ -29,10 +29,10 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
    
 2. Instale o Pygame:
    ```
-   ´pip install pygame
+   pip install pygame
 3. Execute o jogo:
    ```
-   ´python main.py
+   python main.py
    
 ## 🎯 Como Jogar
 
@@ -55,7 +55,15 @@ jogo-cobrinha/
 │
 ├── docs/
 │   ├── imagens/
-│   └── sons/
+|   └── gameplay/
+│   └── tela_menu/
+|── audios/
+|   └── botão_menu/
+|   └── gameover/
+|   └── maca_dourada/
+|   └── menu_music/
+|   └── modo_classic/
+|   └── subir_nivel/
 ├── main.py
 ├── README.md
 └── requirements.txt
