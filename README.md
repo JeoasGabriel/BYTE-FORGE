@@ -55,8 +55,7 @@ jogo-cobrinha/
 ```
 
 ## 📸 Capturas de Tela
-![Tela Menu](<img width="1356" height="763" alt="tela_menu" src="https://github.com/user-attachments/assets/f1b98343-2a89-4f32-9e73-067bb41e7008" />
-)
+![GamePlay](Files/images/ico/tela_menu.jpeg)
 
 ## 📄 Licença
 
