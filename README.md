@@ -25,7 +25,7 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 
 ## 📦 Instalação
 
-1. Clone o repositório:
+1. Clone o link:
    
 2. Instale o Pygame:
    ```
